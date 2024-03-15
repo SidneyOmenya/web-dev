@@ -1,1 +1,1 @@
-HTML practical exercise
+HTML practical exercises
